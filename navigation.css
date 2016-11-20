@@ -6,16 +6,20 @@ body {
 
 li {
 
+	display: inline-block;
 	background-color: grey;
 	padding: 7px;
 	margin-left: 5px;
 	text-align: center;
+	width: 15%;
 	max-width: 50%;
 	list-style: none;
-	font-size: 3rem;
+	font-size: 25px;
+
 
 }
 a {
+	display: block;
 	text-decoration: none;
 }
 
@@ -28,6 +32,8 @@ a:hover {
 	background-color: yellow;
 }
 
-#grow:hover {
+#grow:active {
+
 	padding: 7px 12px;
+
 }
