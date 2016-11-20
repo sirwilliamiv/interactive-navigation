@@ -1,0 +1,40 @@
+body {
+	background-color: lightgrey;
+}
+
+
+
+li {
+
+	display: inline-block;
+	background-color: grey;
+	padding: 7px;
+	text-align: center;
+	width: 15%;
+	max-width: 50%;
+	list-style: none;
+	font-size: 25px;
+
+
+}
+a {
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color:blue;
+}
+
+#bColor:hover {
+
+	background-color: yellow;
+}
+
+#grow:active {
+
+	padding-left: 12px;
+	padding-right: 12px;
+
+}
