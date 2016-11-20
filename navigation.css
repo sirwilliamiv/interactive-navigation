@@ -2,11 +2,13 @@ body {
 	background-color: lightgrey;
 }
 
+
+
 li {
 
 	background-color: grey;
-	padding: 1rem;
-	margin: 3rem 1rem;
+	padding: 7px;
+	margin-left: 5px;
 	text-align: center;
 	max-width: 50%;
 	list-style: none;
@@ -24,4 +26,8 @@ a:hover {
 #bColor:hover {
 
 	background-color: yellow;
+}
+
+#grow:hover {
+	padding: 7px 12px;
 }
