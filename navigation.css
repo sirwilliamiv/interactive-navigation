@@ -13,7 +13,15 @@ li {
 	font-size: 3rem;
 
 }
+a {
+	text-decoration: none;
+}
 
 a:hover {
 	color:blue;
+}
+
+#bColor:hover {
+
+	background-color: yellow;
 }
