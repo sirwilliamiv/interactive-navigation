@@ -1,0 +1,19 @@
+body {
+	background-color: lightgrey;
+}
+
+li {
+
+	background-color: grey;
+	padding: 1rem;
+	margin: 3rem 1rem;
+	text-align: center;
+	max-width: 50%;
+	list-style: none;
+	font-size: 3rem;
+
+}
+
+a:hover {
+	color:blue;
+}
